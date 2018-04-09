@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "nama": "Andi",
+      "usia": 19,
+      "domisili": "jakarta"
+    },
+    {
+      "nama": "Budi",
+      "usia": 19,
+      "domisili": "bandung"
+    },
+    {
+      "nama": "Caca",
+      "usia": 22,
+      "domisili": "manado"
+    },
+    {
+      "nama": "Deni",
+      "usia": 27,
+      "domisili": "bali"
+    },
+    {
+      "nama": "Entis",
+      "usia": "21",
+      "domisili": "medan"
+    },
+    {
+      "nama": "rakhmat",
+      "usia": "27",
+      "domisili": "palmerah"
+    }
+  ]
+}
